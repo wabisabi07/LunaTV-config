@@ -466,33 +466,21 @@
       },
       {
         "key": "iptv-org",
-        "name": "iptv-org",
+        "name": "iptv-org-GL",
         "url": "https://iptv-org.github.io/iptv/index.m3u",
         "detail": "https://github.com/iptv-org/iptv"
       },
       {
         "key": "Free-TV",
-        "name": "Free-TV",
+        "name": "Free-TV-MIX",
         "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
         "detail": "https://github.com/Free-TV/IPTV"
       },
       {
-        "key": "fanmingming/live itv",
-        "name": "fanmingming/live itv",
-        "url": "https://m3u.ibert.me/fmml_itv.m3u",
-        "detail": "https://m3u.ibert.me/"
-      },
-      {
-        "key": "epg.pw All",
-        "name": "epg.pw All",
-        "url": "https://m3u.ibert.me/all.m3u",
-        "detail": "https://m3u.ibert.me/"
-      },
-      {
-        "key": "qwerttvv",
-        "name": "qwerttvv",
-        "url": "https://m3u.ibert.me/q_bj_iptv_mobile_m.m3u",
-        "detail": "hhttps://m3u.ibert.me/"
+        "key": "Collect-IPTV",
+        "name": "Collect-IPTV-CN",
+        "url": "https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u8",
+        "detail": "https://github.com/zilong7728/Collect-IPTV"
       }
     ],
 
