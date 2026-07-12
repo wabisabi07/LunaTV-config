@@ -41,18 +41,5 @@
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "detail": "https://www.ryzyw.com"
     }
-  },
-  "live": {
-    "enable": true,
-    "group": [
-      {
-        "name": "Guovin-IPv4",
-        "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
-      },
-      {
-        "name": "FanMingMing",
-        "url": "https://live.fanmingming.cn/tv/m3u/ipv4.m3u"
-      }
-    ]
   }
 }
