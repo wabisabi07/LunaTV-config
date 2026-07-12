@@ -151,7 +151,7 @@
       "detail": "https://360zyzz.com/api.php/provide/vod"
     },
     "bdzy": {
-      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
       "name": "百度资源",
       "detail": "https://api.apibdzy.com"
     },
@@ -169,10 +169,6 @@
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
       "name": "U酷资源",
       "detail": "https://api.ukuapi.com"
-    },
-    "p2100": {
-      "api": "https://p2100.net/api.php/provide/vod",
-      "name": "飘零资源"
     },
     "jyzy": {
       "api": "https://jyzyapi.com/provide/vod",
