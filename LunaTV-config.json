@@ -457,46 +457,50 @@
     }
   },
 
-  "live": {
-    "enable": true,
-    "group": [
+  "lives": [
       {
+        "key": "Guovin",
         "name": "Guovin",
         "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
         "detail": "https://github.com/Guovin/iptv-api"
       },
       {
+        "key": "yang-1989",
         "name": "yang-1989",
         "url": "https://iptv.yang-1989.xyz/playlist.m3u",
         "detail": "https://yang-1989.eu.org"
       },
       {
+        "key": "IPTV直播源总部",
         "name": "IPTV直播源总部",
         "url": "http://82.156.243.185:33389/fwc.m3u",
         "detail": "https://t.me/iptvorganization"
       },
       {
+        "key": "IPTV",
         "name": "IPTV",
         "url": "https://live.zbds.top/tv/iptv4.m3u",
         "detail": "https://github.com/vbskycn/iptv"
       },
       {
+        "key": "Chinese-IPTV",
         "name": "Chinese-IPTV",
         "url": "https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u",
         "detail": "https://github.com/BurningC4/Chinese-IPTV"
       },
       {
+        "key": "GLOBAL-IPTV",
         "name": "GLOBAL-IPTV",
         "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国外电视台202409.m3u",
         "detail": "https://github.com/BurningC4/Chinese-IPTV"
       },
       {
+        "key": "港澳台-IPTV",
         "name": "港澳台-IPTV",
         "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港澳门202506.m3u",
         "detail": "https://github.com/BurningC4/Chinese-IPTV"
       }
-    ]
-  },
+    ],
 
   "custom_category": [
     {
