@@ -459,12 +459,6 @@
 
   "lives": [
       {
-        "key": "Guovin",
-        "name": "Guovin",
-        "url": "https://raw.githubusercontent.com/wabisabi07/LunaTV-config/refs/heads/main/result.m3u",
-        "detail": "https://github.com/Guovin/iptv-api"
-      },
-      {
         "key": "iptv-org",
         "name": "iptv-org-GL",
         "url": "https://iptv-org.github.io/iptv/index.m3u",
