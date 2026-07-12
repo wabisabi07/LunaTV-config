@@ -224,7 +224,8 @@
     },
     "bdzy": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
-      "name": "百度资源"
+      "name": "百度资源",
+      "detail": "https://api.apibdzy.com"
     },
     "ckzy": {
       "api": "https://ckzy.me/api.php/provide/vod",
@@ -240,10 +241,6 @@
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
       "name": "U酷资源",
       "detail": "https://api.ukuapi.com"
-    },
-    "subocaiji": {
-      "api": "https://subocaiji.com/api.php/provide/vod",
-      "name": "速博资源"
     },
     "p2100": {
       "api": "https://p2100.net/api.php/provide/vod",
@@ -324,10 +321,10 @@
       "api": "https://api.xiaojizy.live/provide/vod",
       "detail": "https://xiaojizy.live"
     },
-    "hsckzy.xyz": {
-      "name": "🔞黄色仓库",
-      "api": "https://hsckzy.xyz/api.php/provide/vod",
-      "detail": "https://hsckzy.xyz"
+    "jipinvip.com": {
+      "name": "🔞极品资源",
+      "api": "https://jipinvip1.com/api.php/provide/vod",
+      "detail": "https://jipinvip.com"
     },
     "apidanaizi.com": {
       "name": "🔞-大奶子-",
@@ -460,11 +457,11 @@
       "api": "https://aosikazy.com/api.php/provide/vod",
       "detail": "https://aosikazy.com"
     },
-    "siwazyw.tv": {
+    "souavzy.net": {
       "_comment": "污染搜索结果",
       "name": "🔞丝袜资源",
       "api": "https://siwazyw.tv/api.php/provide/vod",
-      "detail": "https://siwazyw.tv"
+      "detail": "https://souavzy.net"
     }
   },
   "custom_category": [
