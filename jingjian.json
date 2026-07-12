@@ -91,11 +91,6 @@
       "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
       "detail": "https://jinyingzy.com"
     },
-    "p2100.net": {
-      "name": "🎬飘零资源",
-      "api": "https://p2100.net/api.php/provide/vod",
-      "detail": "https://p2100.net"
-    },
     "api.ukuapi88.com": {
       "name": "🎬U酷影视",
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
@@ -136,79 +131,45 @@
       "api": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod",
       "detail": "https://lovedan.net"
     },
-    "tyyszy": {
-      "api": "https://tyyszy.com/api.php/provide/vod",
-      "name": "天涯资源"
-    },
-    "ffzy": {
-      "api": "https://api.ffzyapi.com/api.php/provide/vod",
-      "name": "非凡影视",
-      "detail": "http://ffzy5.tv"
-    },
     "zy360": {
       "api": "https://360zyzz.com/api.php/provide/vod",
-      "name": "360资源",
+      "name": "🎬360资源",
       "detail": "https://360zyzz.com/api.php/provide/vod"
-    },
-    "bdzy": {
-      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
-      "name": "百度资源",
-      "detail": "https://api.apibdzy.com"
     },
     "ckzy": {
       "api": "https://ckzy.me/api.php/provide/vod",
-      "name": "CK资源",
+      "name": "🎬CK资源",
       "detail": "https://ckzy.me"
     },
     "1080zyk": {
       "api": "https://api.1080zyku.com/inc/apijson.php/",
-      "name": "1080资源",
+      "name": "🎬1080资源",
       "detail": "https://api.1080zyku.com"
     },
     "ukuapi": {
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
-      "name": "U酷资源",
+      "name": "🎬U酷资源",
       "detail": "https://api.ukuapi.com"
     },
     "jyzy": {
       "api": "https://jyzyapi.com/provide/vod",
-      "name": "金鹰资源",
+      "name": "🎬金鹰资源",
       "detail": "https://jinyingzy.net"
     },
     "98zy": {
       "api": "https://98zy.vip/api.php/provide/vod",
-      "name": "98资源",
+      "name": "🎬98资源",
       "detail": "https://98zy.me"
-    },
-    "okzyw": {
-      "api": "https://api.okzyw.net/api.php/provide/vod",
-      "name": "ok资源",
-      "detail": "https://okzyw.cc"
     },
     "xgzy": {
       "api": "https://caiji.xgzyapi.com/api.php/provide/vod",
-      "name": "西瓜资源",
+      "name": "🎬西瓜资源",
       "detail": "https://xiguazy.tv"
-    },
-    "wsyzy": {
-      "api": "https://api.wsyzy.net/api.php/provide/vod",
-      "name": "无水印资源",
-      "detail": "https://www.wsyzy.cc"
     },
     "iqiyizy.com": {
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
-      "name": "爱奇艺资源",
+      "name": "🎬爱奇艺资源",
       "detail": "https://iqiyizy.com"
-    },
-    "niuniuzy.me": {
-      "api": "https://api.niuniuzy.me/api.php/provide/vod",
-      "name": "牛牛资源",
-      "detail": "https://niuniuzy4.com"
-    },
-    "qilinzyz.com": {
-      "api": "http://www.qilinzyz.com/api.php/provide/vod",
-      "name": "麒麟资源",
-      "detail": "https://www.qilinzyz.com"
     },
     "91md.me": {
       "name": "🔞麻豆视频",
