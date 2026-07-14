@@ -2,7 +2,7 @@
 
 最近更新时间：2026-07-14 22:53 CST
 
-**总源数:** 80 | **检测关键词:** 你好
+**总源数:** 80 | **检测关键词:** 你
 
 | 状态 | 资源名称 | 地址 | API | 搜索功能 | 成功次数 | 失败次数 | 成功率 | 最近7天趋势 |
 |------|---------|-----|-----|---------|---------:|--------:|-------:|--------------|
@@ -77,7 +77,7 @@
 | ✅ | 🔞-美少女- | [Link](https://www.msnii.com) | [Link](https://www.msnii.com/api/json.php) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 🔞-黄AVZY | [Link](https://www.pgxdy.com) | [Link](https://www.pgxdy.com/api/json.php) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 🔞白嫖资源 | [Link](https://www.kxgav.com) | [Link](https://www.kxgav.com/api/json.php) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
-| ✅ | 🔞杏吧资源 | [Link](https://xingba111.com) | [Link](https://xingba222.com/api.php/provide/vod) | 无结果 | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
+| ✅ | 🔞杏吧资源 | [Link](https://xingba111.com) | [Link](https://xingba222.com/api.php/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 🔞大地资源 | [Link](https://dadizy11.com) | [Link](https://dadiapi.com/feifei) | 不匹配 | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 🔞-奥斯卡- | [Link](https://aosikazy.com) | [Link](https://aosikazy.com/api.php/provide/vod) | ❌ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 🔞黄色资源 | [Link](https://hsckzy001.com) | [Link](https://hsckzy888.com/api.php/provide/vod) | ✅ | 1 | 0 | 100.0% | ------✅ |
@@ -16986,7 +16986,7 @@
   },
   {
     "date": "2026-07-14",
-    "keyword": "你好",
+    "keyword": "你",
     "results": [
       {
         "name": "🎬-爱奇艺-",
@@ -17518,7 +17518,7 @@
         "api": "https://xingba222.com/api.php/provide/vod",
         "disabled": false,
         "success": true,
-        "searchStatus": "无结果"
+        "searchStatus": "✅"
       },
       {
         "name": "🔞大地资源",
