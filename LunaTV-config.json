@@ -431,12 +431,6 @@
 
   "lives": [
       {
-        "key": "iptv-org",
-        "name": "iptv-org-GL",
-        "url": "https://iptv-org.github.io/iptv/index.m3u",
-        "detail": "https://github.com/iptv-org/iptv"
-      },
-      {
         "key": "Free-TV",
         "name": "Free-TV-MIX",
         "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
