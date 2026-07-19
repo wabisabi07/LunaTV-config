@@ -87,11 +87,6 @@
       "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
       "detail": "https://jinyingzy.com"
     },
-    "api.ukuapi88.com": {
-      "name": "🎬U酷影视",
-      "api": "https://api.ukuapi88.com/api.php/provide/vod",
-      "detail": "https://www.ukuzy.com"
-    },
     "api.guangsuapi.com": {
       "name": "🎬光速资源",
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
@@ -203,7 +198,7 @@
       "name": "🎬1080资源",
       "detail": "https://api.1080zyku.com"
     },
-    "ukuapi": {
+    "api.ukuapi88.com": {
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
       "name": "🎬U酷资源",
       "detail": "https://api.ukuapi.com"
