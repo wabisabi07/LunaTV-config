@@ -126,10 +126,10 @@
       "name": "🎬1080资源",
       "detail": "https://api.1080zyku.com"
     },
-    "api.ukuapi88.com": {
+    "ukuzy.com": {
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
       "name": "🎬U酷资源",
-      "detail": "https://api.ukuapi.com"
+      "detail": "https://www.ukuzy.com"
     },
     "jyzy": {
       "api": "https://jyzyapi.com/provide/vod",
