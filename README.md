@@ -342,12 +342,12 @@ console.log(`Request from: ${request.headers.get('cf-connecting-ip')}`)
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-09-01 05:43 CST）
+## API 状态（最近更新：2026-09-02 03:42 CST）
 
 - 总 API 数量：75
-- 成功 API 数量：71
-- 失败 API 数量：4
-- 平均可用率：92.5%
+- 成功 API 数量：72
+- 失败 API 数量：3
+- 平均可用率：92.4%
 - 完美可用率（100%）：28 个
 - 高可用率（80%-99%）：44 个
 - 中等可用率（50%-79%）：2 个
@@ -429,9 +429,9 @@ console.log(`Request from: ${request.headers.get('cf-connecting-ip')}`)
 | ✅ | 🔞番号资源 | [Link](http://fhapi9.com) | [Link](http://fhapi9.com/api.php/provide/vod) | ✅ | 26 | 4 | 86.7% | ✅✅✅✅✅✅✅ |
 | ✅ | 🔞麻豆视频 | [Link](https://91md.me) | [Link](https://91md.me/api.php/provide/vod) | ✅ | 26 | 4 | 86.7% | ✅✅✅✅✅✅✅ |
 | ✅ | 🎬金鹰资源 | [Link](https://jinyingzy.net) | [Link](https://jyzyapi.com/provide/vod) | ✅ | 25 | 5 | 83.3% | ✅✅✅✅✅✅✅ |
-| 🚨 | 🔞鲨鱼资源 | [Link](https://shayuapi.com) | [Link](https://shayuapi.com/api.php/provide/vod) | ❌ | 25 | 5 | 83.3% | ❌✅✅✅❌❌❌ |
-| 🚨 | 🔞--AIvin- | [Link](http://lbapiby.com) | [Link](http://lbapiby.com/api.php/provide/vod) | ❌ | 21 | 9 | 70.0% | ✅✅❌❌❌❌❌ |
-| 🚨 | 🎬98资源 | [Link](https://98zy.me) | [Link](https://98zy.vip/api.php/provide/vod) | ❌ | 16 | 14 | 53.3% | ❌❌❌❌❌❌❌ |
+| ✅ | 🔞鲨鱼资源 | [Link](https://shayuapi.com) | [Link](https://shayuapi.com/api.php/provide/vod) | ✅ | 25 | 5 | 83.3% | ✅✅✅❌❌❌✅ |
+| 🚨 | 🔞--AIvin- | [Link](http://lbapiby.com) | [Link](http://lbapiby.com/api.php/provide/vod) | ❌ | 20 | 10 | 66.7% | ✅❌❌❌❌❌❌ |
+| 🚨 | 🎬98资源 | [Link](https://98zy.me) | [Link](https://98zy.vip/api.php/provide/vod) | ❌ | 15 | 15 | 50.0% | ❌❌❌❌❌❌❌ |
 | 🚨 | 🔞百万资源 | [Link](https://api.bwzym3u8.com) | [Link](https://api.bwzyz.com/api.php/provide/vod) | ❌ | 0 | 30 | 0.0% | ❌❌❌❌❌❌❌ |
 <!-- API_TABLE_END -->
 
